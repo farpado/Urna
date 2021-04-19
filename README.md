@@ -12,13 +12,13 @@ Sistema similiar a urna eletronica em Javascript
 - [Tecnologias Utilizadas](#-tecnologias-ultilizadas)
 - [Como baixar o projeto](#-sobre)
 
-## 🔥Sobre
+## 🔥 Sobre
 
 O projeto **URNA** é um projeto baseado em uma Urna eletrônica, com o intuito de praticar JS.
 
 ---
 
-## 💻Tecnologias Ultilizadas
+## 💻 Tecnologias Ultilizadas
 
 O projeto foi desenvolvido com as seguintes tecnologias
 
@@ -26,7 +26,7 @@ O projeto foi desenvolvido com as seguintes tecnologias
 - HTML5
 - CSS
 
-## 🎮Como baixar o projeto
+## 🎮 Como baixar o projeto
 
 ```bash
 
